@@ -2,11 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "main": "index.js",
   "homepage": "https://Aleksandr-byte-ui.github.io/goit-js-hw-09.git",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09n/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
